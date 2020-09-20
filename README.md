@@ -3,7 +3,7 @@
 1. Clone this repo
 
 ```
-https://github.com/ahmddp/ansible-azure.git
+git clone https://github.com/ahmddp/ansible-azure.git
 ```
 
 2. Go to ansible-azure folder
